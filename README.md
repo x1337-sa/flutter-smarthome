@@ -1,6 +1,6 @@
-# smarthome
+# SmartHome
 
-A new Flutter project.
+IOt - Flutter project.
 
 ## Getting Started
 
